@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gopalsinghkumbhawat
 - 👀 I’m interested in web development, especially in creating dynamic and responsive web applications.
-- 🌱 I’m currently learning advanced concepts in React Native and exploring the latest features in Angular.
-- 💞️ I’m looking to collaborate on full stack projects involving Node.js, Angular, React.js, React Native, Python and AI/ML.
+- 🌱 I’m currently learning advanced concepts in AI and exploring the latest features in AI/ML.
+- 💞️ I’m looking to collaborate on full stack projects involving Node.js, Angular, React.js and React Native.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gopalsinghkumbhawat) | [Email](mailto:gopalsinghkumbhawat@example.com)
 
 <!---
